@@ -1,2 +1,2 @@
 # First-Simple-PowerShell-Script
-Simple PowerShell script that opens up a few websites I open everyday.
+PowerShell script that automates opening up several web pages in Chrome.
